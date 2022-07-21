@@ -6,3 +6,4 @@
 - I am donating 2000 INR to the society.
 - Reecent commit.
 - To test fetch upstream
+- This is an example to make the merge conflict.
