@@ -7,3 +7,4 @@
 - Reecent commit.
 - To test fetch upstream
 - This is an example to make the merge conflict.
+- Modi banned 2000 INR bills
